@@ -13,6 +13,7 @@
 ActiveRecord::Schema.define(version: 2020_06_09_164019) do
 
   create_table "characters", force: :cascade do |t|
+    t.string "dum"
     t.string "name"
     t.integer "height"
     t.integer "mass"
