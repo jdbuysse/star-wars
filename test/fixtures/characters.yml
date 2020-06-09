@@ -1,0 +1,57 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  height: 1
+  mass: 1
+  hair_color: MyString
+  skin_color: MyString
+  eye_color: MyString
+  birth_year: MyString
+  gender: MyString
+  homeworld: MyString
+  films__001: MyString
+  films__002: MyString
+  films__003: MyString
+  films__004: MyString
+  films__005: MyString
+  films__006: MyString
+  species__-: MyString
+  vehicles__001: MyString
+  vehicles__002: MyString
+  starships__001: MyString
+  starships__002: MyString
+  starships__003: MyString
+  starships__004: MyString
+  starships__005: MyString
+  created: MyString
+  edited: MyString
+  url: MyString
+
+two:
+  name: MyString
+  height: 1
+  mass: 1
+  hair_color: MyString
+  skin_color: MyString
+  eye_color: MyString
+  birth_year: MyString
+  gender: MyString
+  homeworld: MyString
+  films__001: MyString
+  films__002: MyString
+  films__003: MyString
+  films__004: MyString
+  films__005: MyString
+  films__006: MyString
+  species__-: MyString
+  vehicles__001: MyString
+  vehicles__002: MyString
+  starships__001: MyString
+  starships__002: MyString
+  starships__003: MyString
+  starships__004: MyString
+  starships__005: MyString
+  created: MyString
+  edited: MyString
+  url: MyString
