@@ -18,7 +18,6 @@ puts csv
 
 csv.each do |row|
     t = Character.new
-    
     t.dum = row['dummy']
     t.name = row['name']
     t.height = row['height']
